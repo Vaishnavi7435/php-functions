@@ -1,4 +1,4 @@
 <?php
 //Returns the absolute pathname:
-echo realpath("new_stud.txt");
+echo realpath("student_data.txt");
 ?>
